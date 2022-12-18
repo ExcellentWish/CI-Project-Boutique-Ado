@@ -107,7 +107,7 @@ LOGIN_URL = '/accounts/login/'
 LOGOUT_REDIRECT_URL = '/'
 
 
-CSRF_TRUSTED_ORIGINS = ['https://127.0.0.1:8000','https://8000-excellentwi-ciprojectbo-291qhpdlijz.ws-eu78.gitpod.io']
+CSRF_TRUSTED_ORIGINS = ['https://127.0.0.1:8000','https://8000-excellentwi-ciprojectbo-291qhpdlijz.ws-eu79.gitpod.io']
 
 WSGI_APPLICATION = 'boutique_ado.wsgi.application'
 
