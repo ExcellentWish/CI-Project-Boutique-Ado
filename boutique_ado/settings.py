@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     'checkout',
     # Other
     'crispy_forms',
-    "crispy_bootstrap5",
+    'crispy_bootstrap5',
+    'django_countries',
 ]
 
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
